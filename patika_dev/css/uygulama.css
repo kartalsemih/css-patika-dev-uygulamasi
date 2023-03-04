@@ -1,0 +1,28 @@
+body {
+    background-color: #F1F7B5;
+  }
+
+
+nav {
+    font-size: 50px;
+    color: #FD8A8A;
+    text-align: center;
+    font-family: 'Mynerve', cursive;    
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.text-center {
+    display: block;
+    text-align: center;
+    font-family: 'Mynerve', cursive;
+    font-size: 30px;
+    color: #614124;
+}
+
+
+
