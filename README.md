@@ -1,2 +1,2 @@
-# css-patika-dev-uygulamasi
+# Css Patika.dev uygulaması
 Patika.dev egitim kapsaminda css uygulamasi
