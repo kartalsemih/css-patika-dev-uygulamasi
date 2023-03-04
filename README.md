@@ -1,2 +1,2 @@
 # Css Patika.dev uygulaması
-Patika.dev egitim kapsaminda css uygulamasi
+repo basit bir kitap özetleri internet sitesi içeriyor.
